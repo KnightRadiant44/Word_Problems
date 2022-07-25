@@ -7,3 +7,5 @@ for tc in range(T):
         print("YES")
     else:
         print("NO")
+
+#Link to Problem: https://www.codechef.com/problems/CHEFONDATE
