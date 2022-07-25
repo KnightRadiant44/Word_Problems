@@ -7,3 +7,5 @@ for tc in range(T):
     hate_morning = n / dawn
     rounding = math.ceil(hate_morning)
     print(rounding)
+
+#Link to the problem: https://www.codechef.com/submit/FILLCANDIES
